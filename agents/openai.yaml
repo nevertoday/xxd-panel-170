@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 170"
+  short_description: "Black and Rust-red Dry-media Spot"
+  default_prompt: "Use $xxd-panel-170 to transform my photograph following the complete canonical source brief."
