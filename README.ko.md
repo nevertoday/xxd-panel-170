@@ -10,7 +10,23 @@
 
 ## 샘플 작품
 
-연산 자원을 아끼기 위해 이번 배치에서는 이미지 모델을 호출하거나 예시 이미지를 생성하지 않았습니다. 원문·링크·실행 스크립트는 확인했지만 실제 생성 품질은 아직 검증하지 않았습니다. 아래 예시는 생성 작품이 아닌 호출 명령입니다.
+서로 다른 원본에서 개별 생성한 Panel 170의 첫 결과 8장입니다. 짧은 영어 문구를 사용했습니다. 가로는 1536×864 좌우 등분, 세로는 1152×1536 상하 등분입니다.
+
+원본 대응, 검정·녹슨 빨강의 건식 표현과 종이 바탕을 각각 확인했습니다. 일부 피사체나 글자가 크고, 05·06은 세부가 과하며, 09·12는 전체 장면을 많이 남겼습니다. 10은 붉은 해를 추가했고 11은 빨강이 두드러집니다. 작은 독립 삽화, 최소한의 세부, 넓은 여백 조건을 모두 충족하지는 못했습니다. 실제 첫 결과이며 전부 스타일 검수를 통과한 예시는 아닙니다.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 
