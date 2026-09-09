@@ -128,3 +128,15 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 Input image for this panel: `assets/inputs/input-12`
 
 ![Re-selected input](assets/inputs/input-12.jpg)
+
+
+## Rebuilt samples / 重制样张
+
+![left_right-01](PROMPT/left_right-01.png)
+![left_right-02](PROMPT/left_right-02.png)
+![left_right-03](PROMPT/left_right-03.png)
+![left_right-04](PROMPT/left_right-04.png)
+![top_bottom-01](PROMPT/top_bottom-01.png)
+![top_bottom-02](PROMPT/top_bottom-02.png)
+![top_bottom-03](PROMPT/top_bottom-03.png)
+![top_bottom-04](PROMPT/top_bottom-04.png)
