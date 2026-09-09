@@ -119,3 +119,10 @@ In plain language:
 - The agreement grants only the copyright licence and limited patent licence expressly stated. It grants no trademarks, brand names, or other unstated rights, and you may not sublicense your licence to others.
 - After written notice of a violation, you must return to compliance and take practical remedial steps within 32 days, or the licences terminate immediately. A written patent-infringement claim also terminates the patent licence.
 - The material is provided “as is”, without warranty to the extent permitted by law. Users bear the risks and potential losses arising from its use.
+
+
+## Re-selected inputs / 重新选图
+
+Input image for this panel: `assets/inputs/input-12`
+
+![Re-selected input](assets/inputs/input-12.jpg)
