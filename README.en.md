@@ -10,27 +10,17 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-Rebuilt on 2026-09-09: 8 AI-generated samples from independent source images, 4 landscape + 4 portrait. This batch covers Panels 159 and 161–171: 96 different source files verified by SHA-256. Panel 160 is unchanged. Each output uses this Panel's native script and complete original brief, with short English copy.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-Native PNGs are retained without resizing, cropping or split correction. Landscapes are 1672×941 (approximately 16:9); portraits are 1086×1448 (3:4). Landscape boundaries are near the midpoint; the source region in these portraits occupies approximately 50.0–50.0%. These are not all certified exact 50:50 splits.
-
-Every full-size image and thumbnail was reviewed, and metadata cleanup was verified. These are actual outputs, **not a fully accepted style showcase**. Some cars, towns and animals are oversized or over-detailed, falling short of small isolated illustrations.
-
-[Generation and SHA-256 audit](assets/examples/unique-20260909-audit.json)
-
-### 4 landscape samples · source left, design right
-
-| 05 | 06 |
-|---|---|
-| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
-| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
-
-### 4 portrait samples · source above, design below
-
-| 09 | 10 |
-|---|---|
-| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
-| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
+| sample-05-unique | sample-06-unique | sample-07-unique | sample-08-unique |
+| --- | --- | --- | --- |
+| ![sample-05-unique](assets/examples/sample-05-unique.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-unique | sample-06 |
+| ![sample-06-unique](assets/examples/sample-06-unique.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-unique | sample-07 |
+| ![sample-07-unique](assets/examples/sample-07-unique.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-unique | sample-08 |
+| ![sample-08-unique](assets/examples/sample-08-unique.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## Best-fit situations and problems solved
 

@@ -10,27 +10,17 @@
 
 ## عرض النماذج
 
-أُعيد التوليد في 2026-09-09: ثمانية نماذج مولدة بالذكاء الاصطناعي من صور أصلية مستقلة، أربعة أفقية وأربعة عمودية. تشمل الدفعة اللوحات 159 و161–171، بإجمالي 96 ملف مصدر مختلفاً وفق SHA-256. لم تتغير اللوحة 160. استُخدم السكربت الأصلي لكل لوحة مع نصها الأصلي الكامل وعبارات إنجليزية قصيرة.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-حُفظت ملفات PNG كما خرجت من النموذج، بلا تحجيم أو قص أو تصحيح للفاصل. الأفقية 1672×941 (نحو 16:9)، والعمودية 1086×1448 (3:4). الفواصل الأفقية قريبة من المنتصف، وتشغل الصورة الأصلية نحو 50.0–50.0% من النماذج العمودية. ليست جميع التقسيمات مطابقة بدقة لنسبة 50:50.
-
-فُحصت كل صورة بالحجم الكامل وكصورة مصغرة، وتم التحقق من تنظيف البيانات الوصفية. هذه نتائج فعلية، **وليست نماذج اجتازت جميع متطلبات الأسلوب**. بعض العناصر أو المشاهد أو النصوص كبيرة أو كثيرة التفاصيل، مع قصور في الفراغ أو في مطابقة المعالجة للنص الأصلي.
-
-[سجل التوليد والتحقق من SHA-256](assets/examples/unique-20260909-audit.json)
-
-### أربعة نماذج أفقية · الأصل يساراً والتصميم يميناً
-
-| 05 | 06 |
-|---|---|
-| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
-| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
-
-### أربعة نماذج عمودية · الأصل في الأعلى والتصميم في الأسفل
-
-| 09 | 10 |
-|---|---|
-| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
-| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
+| sample-05-unique | sample-06-unique | sample-07-unique | sample-08-unique |
+| --- | --- | --- | --- |
+| ![sample-05-unique](assets/examples/sample-05-unique.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-unique | sample-06 |
+| ![sample-06-unique](assets/examples/sample-06-unique.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-unique | sample-07 |
+| ![sample-07-unique](assets/examples/sample-07-unique.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-unique | sample-08 |
+| ![sample-08-unique](assets/examples/sample-08-unique.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## الحالات المناسبة والمشكلات التي يحلها
 
