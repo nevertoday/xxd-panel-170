@@ -10,27 +10,17 @@
 
 ## 样张展示
 
-2026-09-09 重制：本页 8 张 AI 生成样张均使用独立原图，4 横版＋4 竖版。本批覆盖 159、161–171，共 96 个不同源文件（SHA-256 无重复）；160 未改动。每张使用本 Panel 原生脚本与完整原始提示词生成，配简短英文文案。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-保留原生 PNG，未缩放、裁切或修正分界。横图均为 1672×941（约 16:9），竖图均为 1086×1448（3:4）。横图分界接近中点；本组竖图原图区约占 50.0–50.0%，不能据此宣称全部严格 50:50。
-
-已检查全部大图与缩略图，并验证元数据清理。以下展示真实生成结果，**不代表全部通过风格验收**。部分汽车、城镇和动物偏大或细节偏多，未完全达到小幅孤立插画要求。
-
-[生成与哈希核对记录](assets/examples/unique-20260909-audit.json)
-
-### 横版 4 张 · 原图在左，设计在右
-
-| 05 | 06 |
-|---|---|
-| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
-| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
-
-### 竖版 4 张 · 原图在上，设计在下
-
-| 09 | 10 |
-|---|---|
-| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
-| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
+| sample-05-unique | sample-06-unique | sample-07-unique | sample-08-unique |
+| --- | --- | --- | --- |
+| ![sample-05-unique](assets/examples/sample-05-unique.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-unique | sample-06 |
+| ![sample-06-unique](assets/examples/sample-06-unique.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-unique | sample-07 |
+| ![sample-07-unique](assets/examples/sample-07-unique.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-unique | sample-08 |
+| ![sample-08-unique](assets/examples/sample-08-unique.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## 适用场景与解决的问题
 
