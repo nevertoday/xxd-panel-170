@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-170
-description: "Create Panel 170 raster artwork: Black and Rust-red Dry-media Spot. Use when the user invokes xxd-panel-170 or requests this specific visual language."
+description: "XXD Panel 170｜Black and Rust-red Dry-media Spot: compresses the most recognisable subject of a photo into a very small editorial spot illustration drawn with a few bold, gestural strokes in dry media — crayon, oil pastel, coarse graphite or china marker dragged across the paper, with broken, skewed and overlapping lines, smudges, gaps and unfilled areas. Strict two-colour palette: charcoal black carries the structure and weight, rust or brick red picks out only a few spots by rhythm rather than real colour, on warm grey-white paper. No background frame, colour panel or extra colours; huge empty paper and a few small words in black or rust red. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-170 or asks for a black-and-red crayon sketch, dry-media spot illustration or gestural two-colour drawing from a photo."
 ---
 
 # XXD Panel 170

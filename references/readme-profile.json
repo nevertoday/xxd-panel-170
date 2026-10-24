@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 170｜Black and Rust-red Dry-media Spot: compresses the most recognisable subject of a photo into a very small editorial spot illustration drawn with a few bold, gestural strokes in dry media — crayon, oil pastel, coarse graphite or china marker dragged across the paper, with broken, skewed and overlapping lines, smudges, gaps and unfilled areas. Strict two-colour palette: charcoal black carries the structure and weight, rust or brick red picks out only a few spots by rhythm rather than real colour, on warm grey-white paper. No background frame, colour panel or extra colours; huge empty paper and a few small words in black or rust red. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-170 or asks for a black-and-red crayon sketch, dry-media spot illustration or gestural two-colour drawing from a photo.",
+  "short_description": "黑锈红干笔小景志：只用炭黑和一点锈红，以几笔粗粝蜡笔把照片主体画成极小的插图",
+  "zh-CN": {
+    "name": "黑锈红干笔小景志",
+    "tagline": "只用炭黑和一点锈红，几笔粗粝的蜡笔就把照片主角画成一枚极小的插图。",
+    "look": "照片里最好认的主体被压成一枚很小的插图，只用少量有力的线条和色块画成，像蜡笔、油画棒、粗石墨或油性记号笔在纸上摩擦出来：断线、歪斜、重叠、擦痕、露白、没涂满都留着。颜色严格只有两种：炭黑负责结构和重量，铁锈红或砖红只点在少数位置，不按物体的真实颜色，而按节奏分布；纸是暖灰白。四周没有背景框、色块底板，大片空纸直接构成画面。少量小字用炭黑或锈红，安静地放在留白里。",
+    "traits": [
+      "极小图形",
+      "大笔触少细节",
+      "干性粗粝笔触",
+      "炭黑主导",
+      "锈红专色"
+    ],
+    "good": [
+      "姿态鲜明、几笔就能抓住的主体：一只奔跑的狗、一个跳舞的人、一只乌鸦",
+      "形状简单的物件：一把椅子、一个酒瓶、一辆自行车、一顶帽子",
+      "想做成文章配图、书籍封面小插画或印章感图标的照片"
+    ],
+    "poor": [
+      "颜色丰富、靠色彩打动人的照片，这里只剩黑、锈红和纸色",
+      "需要看清细节或完整场景的照片，画面只有一小块",
+      "想要鲜红高饱和、多色上色、精致矢量或有背景底板的需求"
+    ]
+  },
+  "en": {
+    "name": "Black and Rust-red Dry-media Spot",
+    "tagline": "Draws the star of your photo as a tiny spot illustration in a few rough crayon strokes of charcoal black and a little rust red.",
+    "look": "The most recognisable subject is compressed into a very small illustration made of just a few bold lines and patches, as if crayon, oil pastel, coarse graphite or a china marker had been dragged across the paper: broken, skewed and overlapping strokes, smudges, flecks of bare paper and unfilled areas all stay. The palette is strictly two colours: charcoal black for structure and weight, and rust or brick red on only a few spots, placed by rhythm rather than by the object's real colour, on warm grey-white paper. There is no background frame or colour panel; the wide bare paper is part of the picture. A few small words in black or rust red sit quietly in the white space.",
+    "traits": [
+      "Tiny drawing",
+      "Big strokes, little detail",
+      "Rough dry media",
+      "Charcoal-led",
+      "Rust-red accent"
+    ],
+    "good": [
+      "Subjects with a strong pose that a few strokes can catch: a running dog, someone dancing, a crow",
+      "Simple-shaped objects: a chair, a wine bottle, a bicycle, a hat",
+      "Photos you want as an article image, a small book-cover drawing or a stamp-like icon"
+    ],
+    "poor": [
+      "Colourful photos that rely on their palette, since only black, rust red and paper remain",
+      "Photos that need visible detail or a whole scene, as the drawing is only a small patch",
+      "Requests for bright saturated red, many colours, polished vector art or a background panel"
+    ]
+  },
+  "ja": {
+    "name": "黒と錆赤のドライメディア小景",
+    "tagline": "炭黒とわずかな錆赤だけで、ざらついたクレヨンの数筆で写真の主役をごく小さな挿絵にします。",
+    "look": "写真でいちばん目立つ主役を、少ない力強い線と色面だけのごく小さな挿絵に縮めます。クレヨン、オイルパステル、粗い黒鉛、チャイナマーカーを紙にこすりつけたようで、途切れ、傾き、重なり、こすれ、紙の白の抜け、塗り残しがそのまま残ります。色は厳密に二色で、炭黒が構造と重みを担い、錆赤やレンガ色は物の本当の色ではなくリズムに合わせて数か所にだけ置かれ、紙は温かい灰白です。背景の枠や色の台紙はなく、広い紙そのものが画面の一部になります。炭黒か錆赤の小さな言葉が余白に静かに少し入ります。",
+    "traits": [
+      "ごく小さな図形",
+      "大きな筆致と少ない細部",
+      "ざらついた乾いた画材",
+      "炭黒が主役",
+      "錆赤の差し色"
+    ],
+    "good": [
+      "数筆でとらえられる印象的なポーズの主役：走る犬、踊る人、カラス",
+      "形の単純な物：椅子、ワインボトル、自転車、帽子",
+      "記事の挿絵、本の表紙の小さな絵、判子のようなアイコンにしたい写真"
+    ],
+    "poor": [
+      "色の豊かさが魅力の写真（黒、錆赤、紙の色だけになります）",
+      "細部や場面全体を見せたい写真（絵は小さな一部分だけです）",
+      "鮮やかな赤、多色塗り、精緻なベクター、背景の色板を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "검정과 녹슨 빨강의 거친 작은 삽화",
+    "tagline": "숯검정과 약간의 녹슨 빨강만으로, 거친 크레용 몇 획에 사진 속 주인공을 아주 작은 삽화로 그립니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 힘 있는 선과 색면 몇 개뿐인 아주 작은 삽화로 줄입니다. 크레용, 오일 파스텔, 거친 흑연, 차이나 마커를 종이에 문지른 듯 끊김, 기울어짐, 겹침, 문지른 자국, 드러난 종이, 덜 칠한 곳이 그대로 남습니다. 색은 엄격히 두 가지로, 숯검정이 구조와 무게를 맡고, 녹슨 빨강이나 벽돌색은 물체의 실제 색이 아니라 리듬에 따라 몇 군데에만 찍히며, 종이는 따뜻한 회백색입니다. 배경 틀이나 색 받침은 없고 넓은 빈 종이가 곧 화면의 일부입니다. 숯검정이나 녹슨 빨강의 작은 글이 여백에 조용히 조금 들어갑니다.",
+    "traits": [
+      "아주 작은 그림",
+      "큰 획과 적은 세부",
+      "거친 건식 재료",
+      "숯검정 중심",
+      "녹슨 빨강 포인트"
+    ],
+    "good": [
+      "몇 획으로 잡히는 뚜렷한 자세의 주인공: 달리는 개, 춤추는 사람, 까마귀",
+      "형태가 단순한 물건: 의자, 와인병, 자전거, 모자",
+      "글 삽화, 책 표지의 작은 그림, 도장 같은 아이콘으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 풍부해 색으로 마음을 끄는 사진(검정, 녹슨 빨강, 종이색만 남습니다)",
+      "세부나 장면 전체를 보여야 하는 사진(그림은 작은 한 부분뿐입니다)",
+      "선명한 고채도 빨강, 여러 색 칠하기, 정교한 벡터, 배경 색판을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم صغير بخامات جافة بالأسود والأحمر الصدئ",
+    "tagline": "يرسم بطل صورتك رسماً صغيراً جداً بضربات قليلة خشنة بأقلام الشمع، بالأسود الفحمي وقليل من الأحمر الصدئ.",
+    "look": "يُختزل أوضح عنصر في الصورة إلى رسم صغير جداً من خطوط وبقع جريئة قليلة، كأن قلم شمع أو باستيل زيتي أو غرافيت خشن أو قلم تحديد شمعي جُرّ على الورق: تبقى الخطوط المتقطعة والمائلة والمتراكبة وآثار الفرك ونقاط الورق العاري والمساحات غير المملوءة. الألوان اثنان فقط بصرامة: الأسود الفحمي للبنية والثقل، والأحمر الصدئ أو الطوبي على مواضع قليلة فقط، يُوزَّع حسب الإيقاع لا حسب لون الشيء الحقيقي، على ورق أبيض رمادي دافئ. لا إطار للخلفية ولا لوحة لونية، فالورق العاري الواسع جزء من الصورة. وتقع كلمات صغيرة قليلة بالأسود أو الأحمر الصدئ بهدوء في الفراغ.",
+    "traits": [
+      "رسم صغير جداً",
+      "ضربات كبيرة وتفاصيل قليلة",
+      "خامات جافة خشنة",
+      "الأسود الفحمي أولاً",
+      "لمسة أحمر صدئ"
+    ],
+    "good": [
+      "عناصر بوضعيات قوية تلتقطها ضربات قليلة: كلب يركض، شخص يرقص، غراب",
+      "أشياء بسيطة الشكل: كرسي، زجاجة نبيذ، دراجة، قبعة",
+      "صور تريدها صورة لمقال أو رسماً صغيراً لغلاف كتاب أو أيقونة تشبه الختم"
+    ],
+    "poor": [
+      "صور ملوّنة تعتمد على ألوانها، إذ لا يبقى إلا الأسود والأحمر الصدئ ولون الورق",
+      "صور تحتاج إلى تفاصيل ظاهرة أو مشهد كامل، فالرسم بقعة صغيرة فقط",
+      "طلب أحمر زاهٍ مشبع أو ألوان كثيرة أو رسوم متجهية مصقولة أو لوحة خلفية"
+    ]
+  }
+}

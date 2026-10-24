@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 170"
-  short_description: "Black and Rust-red Dry-media Spot"
-  default_prompt: "Use $xxd-panel-170 to transform my photograph following the complete canonical source brief."
+  short_description: "黑锈红干笔小景志：只用炭黑和一点锈红，以几笔粗粝蜡笔把照片主体画成极小的插图"
+  default_prompt: "Use $xxd-panel-170 to turn my photo into Black and Rust-red Dry-media Spot artwork."
